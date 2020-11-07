@@ -63,7 +63,7 @@
     "react-countdown-now": "^2.1.1",
     "react-dom": "^16.9.0",
     "react-helmet": "~5.2.1",
-    "react-live": "^2.2.0",
+    "react-live": "^2.2.3",
     "react-markdown": "^4.2.2",
     "react-responsive-carousel": "^3.1.50",
     "react-share": "^3.0.1",
